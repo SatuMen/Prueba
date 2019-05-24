@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Las Marías",
+"dataUrl": "10 de enero.data.unityweb",
+"asmCodeUrl": "10 de enero.asm.code.unityweb",
+"asmMemoryUrl": "10 de enero.asm.memory.unityweb",
+"asmFrameworkUrl": "10 de enero.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
